@@ -1,5 +1,5 @@
-.bit
-.json
-.dfu
-.config
-.bo
+*.bit
+*.json
+*.dfu
+*.config
+*.bo
